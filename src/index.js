@@ -1,8 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+import App from './app/LoginPage';
 import reportWebVitals from './reportWebVitals';
+
 import {//Esta linea haat la 7 no estaba
   createBrowserRouter,
   RouterProvider,
